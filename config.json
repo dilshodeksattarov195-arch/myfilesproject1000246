@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailupdate",
+        "uuid": 1595310,
+        "checksum": "6xvxro"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
